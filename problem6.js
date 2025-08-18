@@ -1,0 +1,12 @@
+// Problem 6: Sum of All Numbers in an Array
+
+function sumArray(arr) {
+  let sum = 0;
+  for (let num of arr) {
+    sum += num;
+  }
+  return sum;
+}
+
+// Test
+console.log(sumArray([1, 2, 3, 4])); 

@@ -1,0 +1,14 @@
+// Problem 5: Remove Duplicates from an Array
+
+function removeDuplicates(arr) {
+  let unique = [];
+  for (let num of arr) {
+    if (!unique.includes(num)) {
+      unique.push(num);
+    }
+  }
+  return unique;
+}
+
+// Test
+console.log(removeDuplicates([1, 2, 2, 3, 4, 4])); 
