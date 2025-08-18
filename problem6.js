@@ -1,4 +1,4 @@
-// Problem 6: Sum of All Numbers in an Array
+// Problem 4: Sum of All Numbers in an Array
 
 function sumArray(arr) {
   let sum = 0;

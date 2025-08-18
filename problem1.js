@@ -9,5 +9,5 @@ function reverseString(str) {
 }
 
 // Test
-console.log(reverseString("hello")); 
+console.log(reverseString("Sakib")); 
 

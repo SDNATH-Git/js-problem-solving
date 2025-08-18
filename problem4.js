@@ -1,4 +1,4 @@
-// Problem 4: Find the Maximum Number
+// Problem 3: Find the Maximum Number
 
 function findMax(arr) {
   let max = arr[0];
