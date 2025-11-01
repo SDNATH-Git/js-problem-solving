@@ -19,7 +19,7 @@ function reverseString(str){
   return str.split('').reverse('').join('');
 
 }
-console.log(reverseString("Ajoy"));
+console.log(reverseString("Bkash"));
 
 
 
