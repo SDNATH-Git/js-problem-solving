@@ -1,4 +1,6 @@
-// // Problem 1: Reverse a String
+// Problem 1: Reverse a String
+
+// ‍Solution mathod 1   
 
 // function reverseString(str) {
 //   let reversed = "";
@@ -10,4 +12,8 @@
 
 // // Test
 // console.log(reverseString("Sakib"));  hsakb
+
+
+// Solution mathod 2 
+
 
