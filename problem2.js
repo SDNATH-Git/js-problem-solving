@@ -1,15 +1,15 @@
 // // Problem 2: Count Vowels in a String
 
-// function countVowels(str) {
-//   let count = 0;
-//   let vowels = "aeiouAEIOU";
-//   for (let char of str) {
-//     if (vowels.includes(char)) {
-//       count++;
-//     }
-//   }
-//   return count;
-// }
+function CountVowel(str){
+  let conut = 0 ;
+  let vowels = 'aeiouAEIOU';
+  for(let char of str){
+    if(vowels.includes(char)){
+      conut++;
+    }
+  }
+  return conut ;
+}
 
-// // Test
-// console.log(countVowels("programming")); 
+//test
+console.log(CountVowel('Ajoy'));
