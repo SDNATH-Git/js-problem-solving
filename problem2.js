@@ -12,4 +12,4 @@ function CountVowel(str){
 }
 
 //test
-console.log(CountVowel('Ajoy'));
+console.log(CountVowel('Bkash'));
