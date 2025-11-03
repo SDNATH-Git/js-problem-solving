@@ -1,14 +1,18 @@
-// Problem 3: Find the Maximum Number
+// // Problem 3: Find the Maximum Number
 
-function findMax(arr) {
-  let max = arr[0];
-  for (let num of arr) {
-    if (num > max) {
-      max = num;
-    }
-  }
-  return max;
-}
+// function findMax(arr) {
+//   let max = arr[0];
+//   for (let num of arr) {
+//     if (num > max) {
+//       max = num;
+//     }
+//   }
+//   return max;
+// }
 
-// Test
-console.log(findMax([5, 1, 9, 3])); 
+// // Test
+// console.log(findMax([5, 1, 9, 3])); 
+
+
+// Sloution Method 2
+
