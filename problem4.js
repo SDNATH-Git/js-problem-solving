@@ -14,5 +14,12 @@
 // console.log(findMax([5, 1, 9, 3])); 
 
 
-// Sloution Method 2
+// Solution Method 2
+function findMax(arr){
+  return Math.max(...arr);
+}
+
+// text 
+console.log(findMax([3,0,2,8]));
+
 
