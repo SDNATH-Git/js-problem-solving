@@ -19,6 +19,6 @@ function isPalindrome(str){
 
 }
 
-console.log(isPalindrome("eye"));
+console.log(isPalindrome("madam"));
 console.log(isPalindrome("world"));
 
