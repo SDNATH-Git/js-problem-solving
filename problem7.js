@@ -21,5 +21,7 @@ function findEvens(arr){
       evens.push(num);
     }
   }
-  
+  return evens;
 }
+
+console.log(findEvens([1,2,3,4,5,5,]));
