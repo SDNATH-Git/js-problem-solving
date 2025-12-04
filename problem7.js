@@ -24,4 +24,5 @@ function findEvens(arr){
   return evens;
 }
 
+//test
 console.log(findEvens([1,2,3,4,5,5,]));
