@@ -1,4 +1,4 @@
-// Problem 8: Capitalize First Letter of Each Word
+// Problem 8: Capitalize First Letter of Each words
 
 function capitalizeWords(str) {
   let words = str.split(" ");
