@@ -1,4 +1,4 @@
-// Problem 3: Check for Palindrome
+// Problem- 03: Check for Palindrome
 
 function isPalindrome(str) {
   let reversed = "";
