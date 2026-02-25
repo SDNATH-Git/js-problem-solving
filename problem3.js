@@ -13,7 +13,7 @@ console.log(isPalindrome("madam"));
 // console.log(isPalindrome("hello")); 
 
 
-// Sloution Method 2
+// Sloution Method 2 : Check for Palindrome
 // function isPalindrome(str){
 //   return str === str.split('').reverse().join('');
 
