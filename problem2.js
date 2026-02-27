@@ -11,5 +11,5 @@
 //   return conut ;
 // }
 
-//test
+//test problem 2
 console.log(CountVowel('Bkash'));
