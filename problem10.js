@@ -1,4 +1,4 @@
-// Problem 10: PingPong Challenge
+// Problem 10: PingPong Challenge solution
 
 function pingPong() {
   for (let i = 1; i <= 20; i++) {
