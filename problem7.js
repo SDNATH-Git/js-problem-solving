@@ -24,5 +24,6 @@ function findEvens(arr){
   return evens;
 }
 
-//test
+//test Find Even Numbers in an Array
+
 console.log(findEvens([1,2,3,4,5,5,]));
