@@ -14,7 +14,7 @@ function removeDuplicates(arr) {
 console.log(removeDuplicates([1, 2, 2, 3, 4, 4])); 
 
 
-// Solution Method 5
+// Solution Method 5 : using set
 function removeDuplicates(arr){
   return[...new Set(arr)];
 }
